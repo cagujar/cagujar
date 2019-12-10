@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+
+body{
+	background-image : url("background.jpg");
+	background-repeat: no-repeat;
+    background-size:cover;
+	height: 100%;
+	width: 100%;
+}
+
+
+.loginText{
+	font-family: 'Bebas Neue';
+	color: black;
+	font-size: 80px;
+	margin-left: 20px;
+}
+
+
+.loginText :hover{
+	color: white;
+}
+.mylogo{
+	
+	margin-left: 900px;
+	
+}
