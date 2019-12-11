@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Roboto&display=swap');
+
+body{
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+}
+
+.navigator{
+    
+    width: 95%;
+    height: 50px;
+    background: #f78fb3;
+   	line-height: 40px;
+    border-radius: 30px;
+    margin: -100px 0px 0px 30px;
+}
+
+ul{
+	list-style: none;
+	justify-content: center;
+	text-align: center;
+}
+
+ul li {
+	float: left;
+	color: white;
+	padding: 5px;
+	margin-left: 70px;
+	
+}
+
+ul li a {
+	text-decoration: none;
+	display: block;
+	font-size: 14px;
+	color: white;
+	font-family: 'Bebas Neue';
+	margin-left: 30px;
+	letter-spacing: 1px;
+}
+
+.uic_school_logo{
+	width: 100px;
+	height: 100px;
+	margin: 10px 0px 0px 60px;
+	position: static;
+}
+
+.search{
+	border-radius: 30px;
+	outline: none;
+	border: 0;
+	height: 30px;
+	padding-left: 8px;
+}
+
+.account{
+	float: right;
+	margin-right: 20px;
+}
+
+
